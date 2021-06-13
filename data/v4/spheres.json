@@ -1,0 +1,394 @@
+[
+  {
+    "id": 18299,
+    "title": "Здравоохранение",
+    "special": 0,
+    "activated": 1,
+    "priority": 500
+  },
+  {
+    "id": 4299,
+    "title": "Строительство и реконструкция",
+    "special": 0,
+    "activated": 1,
+    "priority": 490
+  },
+  {
+    "id": 2299,
+    "title": "Транспорт",
+    "special": 0,
+    "activated": 1,
+    "priority": 480
+  },
+  {
+    "id": 15299,
+    "title": "Образование",
+    "special": 0,
+    "activated": 1,
+    "priority": 470
+  },
+  {
+    "id": 5299,
+    "title": "Городское хозяйство",
+    "special": 0,
+    "activated": 1,
+    "priority": 460
+  },
+  {
+    "id": 350299,
+    "title": "Благоустройство",
+    "special": 0,
+    "activated": 1,
+    "priority": 450
+  },
+  {
+    "id": 183299,
+    "title": "Технологии",
+    "special": 0,
+    "activated": 1,
+    "priority": 440
+  },
+  {
+    "id": 319299,
+    "title": "Московские центральные диаметры",
+    "special": 0,
+    "activated": 1,
+    "priority": 430
+  },
+  {
+    "id": 153299,
+    "title": "Московская программа реновации жилья",
+    "special": 1,
+    "activated": 1,
+    "priority": 420
+  },
+  {
+    "id": 231299,
+    "title": "Мой район",
+    "special": 0,
+    "activated": 1,
+    "priority": 410
+  },
+  {
+    "id": 1299,
+    "title": "Социальная сфера",
+    "special": 0,
+    "activated": 1,
+    "priority": 400
+  },
+  {
+    "id": 7299,
+    "title": "Экология",
+    "special": 0,
+    "activated": 1,
+    "priority": 390
+  },
+  {
+    "id": 10299,
+    "title": "Безопасность",
+    "special": 0,
+    "activated": 1,
+    "priority": 380
+  },
+  {
+    "id": 12299,
+    "title": "Экономика и предпринимательство",
+    "special": 0,
+    "activated": 1,
+    "priority": 370
+  },
+  {
+    "id": 3299,
+    "title": "Культура",
+    "special": 0,
+    "activated": 1,
+    "priority": 360
+  },
+  {
+    "id": 11299,
+    "title": "Межрегиональные и международные связи",
+    "special": 0,
+    "activated": 1,
+    "priority": 350
+  },
+  {
+    "id": 351299,
+    "title": "Госуслуги",
+    "special": 0,
+    "activated": 1,
+    "priority": 340
+  },
+  {
+    "id": 16299,
+    "title": "Городское управление",
+    "special": 0,
+    "activated": 1,
+    "priority": 330
+  },
+  {
+    "id": 6299,
+    "title": "Спорт",
+    "special": 0,
+    "activated": 1,
+    "priority": 320
+  },
+  {
+    "id": 14299,
+    "title": "Наука и инновации",
+    "special": 0,
+    "activated": 1,
+    "priority": 310
+  },
+  {
+    "id": 13299,
+    "title": "Туризм",
+    "special": 0,
+    "activated": 1,
+    "priority": 300
+  },
+  {
+    "id": 9299,
+    "title": "Семейная и молодежная политика",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 17299,
+    "title": "Имущественно-земельные отношения",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 19299,
+    "title": "Парки и пешеходные зоны",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 21299,
+    "title": "Погода",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 70299,
+    "title": "Московское долголетие",
+    "special": 1,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 78299,
+    "title": "Концерты",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 80299,
+    "title": "Спектакли",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 81299,
+    "title": "Выставки",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 83299,
+    "title": "Экскурсии",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 84299,
+    "title": "События в парках",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 85299,
+    "title": "Спортивные события",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 86299,
+    "title": "Городские фестивали",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 87299,
+    "title": "Акции",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 88299,
+    "title": "Праздники",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 89299,
+    "title": "Квесты",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 187299,
+    "title": "Кино",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 238299,
+    "title": "Археология и памятники архитектуры",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 239299,
+    "title": "Мастер-классы",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 283299,
+    "title": "Лекции",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 284299,
+    "title": "Чтения",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 292299,
+    "title": "Музейные истории",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 301299,
+    "title": "Животные",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 305299,
+    "title": "Для детей",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 313299,
+    "title": "«Московская электронная школа»",
+    "special": 1,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 320299,
+    "title": "Благотворительность",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 329299,
+    "title": "Истории вещей",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 330299,
+    "title": "Московские истории",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 331299,
+    "title": "Советы библиотекаря",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 332299,
+    "title": "История Москвы",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 333299,
+    "title": "Благотворительный сервис mos.ru",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 334299,
+    "title": "Музейный гид",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 335299,
+    "title": "Досуг",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 336299,
+    "title": "За кулисами",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 337299,
+    "title": "Кино в городе",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  },
+  {
+    "id": 344299,
+    "title": "Игры",
+    "special": 0,
+    "activated": 1,
+    "priority": 0
+  }
+]

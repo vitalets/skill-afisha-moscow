@@ -1,0 +1,60 @@
+{
+  "name": "skill-afisha-moscow",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "eslint src test bot-components --ext .ts",
+    "test:l": "mocha -r ts-node/register test/setup.ts test/specs/*.ts",
+    "test": "LOG_LEVEL=warn npm run test:l",
+    "test:d": "LOG_LEVEL=debug npm run test:l",
+    "build": "rm -rf dist && tsc",
+    "check": "LOG_LEVEL=debug tsnd --respawn scripts/check-on-device",
+    "logs": "yc serverless function logs skill-afisha-moscow -f",
+    "deploy": "./scripts/deploy-test.sh"
+  },
+  "lint-staged": {
+    "{src,test,bot-components}/**/*.ts": "eslint --ext .ts --fix"
+  },
+  "dependencies": {
+    "alice-renderer": "^1.1.1",
+    "console-log-level": "^1.4.1",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.5.17",
+    "@types/chai": "^4.2.18",
+    "@types/console-log-level": "^1.4.0",
+    "@types/debug": "^4.1.5",
+    "@types/mocha": "^8.2.2",
+    "@types/node": "^15.0.1",
+    "@types/node-fetch": "^2.5.10",
+    "@types/sinon": "^10.0.2",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "@typescript-eslint/parser": "^4.22.0",
+    "alice-asset-manager": "^1.2.0",
+    "alice-tester": "^2.2.0",
+    "alice-types": "^1.0.1",
+    "amqplib": "^0.8.0",
+    "chai": "^4.3.4",
+    "dotenv": "^9.0.2",
+    "eslint": "^7.24.0",
+    "eslint-plugin-mocha": "^8.1.0",
+    "inquirer": "^8.1.0",
+    "lint-staged": "^10.5.4",
+    "mocha": "^8.3.2",
+    "nock": "^13.1.0",
+    "serverless": "^1.83.3",
+    "serverless-yandex-cloud": "^0.1.3",
+    "sinon": "^11.1.1",
+    "ts-node": "^9.1.1",
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.2.4",
+    "yaml": "^1.10.2",
+    "yandex-cloud": "^1.4.3"
+  },
+  "author": {
+    "name": "Vitaliy Potapov",
+    "email": "noginsk@rambler.ru"
+  },
+  "license": "MIT"
+}

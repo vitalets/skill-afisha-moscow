@@ -1,0 +1,43 @@
+{
+  "ids": {
+    "arpha": "657ca2e5-3b1a-42e7-b76e-0ff71414d736",
+    "children": "31d01560-06d9-4189-8015-6485be2d6689",
+    "forest": "ddf77583-6437-4ce3-8cd2-59b881e58695",
+    "intro": "f098267a-7ecb-4726-a6ee-e255d9d94e51",
+    "money": "20892e8a-10af-4366-8daa-7ac9a28e7136"
+  },
+  "tts": {
+    "arpha": "<speaker audio=\"dialogs-upload/20274d48-0658-456b-812d-e5babf55db78/657ca2e5-3b1a-42e7-b76e-0ff71414d736.opus\">",
+    "children": "<speaker audio=\"dialogs-upload/20274d48-0658-456b-812d-e5babf55db78/31d01560-06d9-4189-8015-6485be2d6689.opus\">",
+    "forest": "<speaker audio=\"dialogs-upload/20274d48-0658-456b-812d-e5babf55db78/ddf77583-6437-4ce3-8cd2-59b881e58695.opus\">",
+    "intro": "<speaker audio=\"dialogs-upload/20274d48-0658-456b-812d-e5babf55db78/f098267a-7ecb-4726-a6ee-e255d9d94e51.opus\">",
+    "money": "<speaker audio=\"dialogs-upload/20274d48-0658-456b-812d-e5babf55db78/20892e8a-10af-4366-8daa-7ac9a28e7136.opus\">"
+  },
+  "meta": {
+    "arpha": {
+      "file": "assets/sounds/arpha.mp3",
+      "url": "https://yastatic.net/s3/dialogs/dialogs-upload/sounds/opus/20274d48-0658-456b-812d-e5babf55db78/657ca2e5-3b1a-42e7-b76e-0ff71414d736.opus",
+      "mtimeMs": 1623599913867.7144
+    },
+    "children": {
+      "file": "assets/sounds/children.mp3",
+      "url": "https://yastatic.net/s3/dialogs/dialogs-upload/sounds/opus/20274d48-0658-456b-812d-e5babf55db78/31d01560-06d9-4189-8015-6485be2d6689.opus",
+      "mtimeMs": 1623599820749.6875
+    },
+    "forest": {
+      "file": "assets/sounds/forest.mp3",
+      "url": "https://yastatic.net/s3/dialogs/dialogs-upload/sounds/opus/20274d48-0658-456b-812d-e5babf55db78/ddf77583-6437-4ce3-8cd2-59b881e58695.opus",
+      "mtimeMs": 1623601100859.847
+    },
+    "intro": {
+      "file": "assets/sounds/intro.mp3",
+      "url": "https://yastatic.net/s3/dialogs/dialogs-upload/sounds/opus/20274d48-0658-456b-812d-e5babf55db78/f098267a-7ecb-4726-a6ee-e255d9d94e51.opus",
+      "mtimeMs": 1623422009761.2786
+    },
+    "money": {
+      "file": "assets/sounds/money.mp3",
+      "url": "https://yastatic.net/s3/dialogs/dialogs-upload/sounds/opus/20274d48-0658-456b-812d-e5babf55db78/20892e8a-10af-4366-8daa-7ac9a28e7136.opus",
+      "mtimeMs": 1623422377808.377
+    }
+  }
+}

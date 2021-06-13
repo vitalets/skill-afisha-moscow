@@ -1,0 +1,27 @@
+service: skill-afisha-moscow
+frameworkVersion: ">=1.1.0 <2.0.0"
+configValidationMode: off
+
+provider:
+  name: yandex-cloud
+
+plugins:
+  - serverless-yandex-cloud
+
+package:
+  exclude:
+    - ./**
+  include:
+    - ./package*.json
+    - ./dist/**
+
+functions:
+  skill-afisha-moscow:
+    name: skill-afisha-moscow
+    runtime: nodejs14
+    handler: dist/src/index.handler
+    memory: 256
+    timeout: 5
+    account: editor-prod
+    environment:
+      NODE_ENV: production

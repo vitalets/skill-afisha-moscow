@@ -1,0 +1,62 @@
+[
+  {
+      "label": "Центральный",
+      "value": 1500,
+      "selected": false
+  },
+  {
+      "label": "Южный",
+      "value": 2500,
+      "selected": false
+  },
+  {
+      "label": "Северный",
+      "value": 3500,
+      "selected": false
+  },
+  {
+      "label": "Юго-Западный",
+      "value": 4500,
+      "selected": false
+  },
+  {
+      "label": "Северо-Восточный",
+      "value": 5500,
+      "selected": false
+  },
+  {
+      "label": "Западный",
+      "value": 6500,
+      "selected": false
+  },
+  {
+      "label": "Восточный",
+      "value": 7500,
+      "selected": false
+  },
+  {
+      "label": "Северо-Западный",
+      "value": 8500,
+      "selected": false
+  },
+  {
+      "label": "Юго-Восточный",
+      "value": 9500,
+      "selected": false
+  },
+  {
+      "label": "Зеленоградский",
+      "value": 10500,
+      "selected": false
+  },
+  {
+      "label": "Троицкий и Новомосковский",
+      "value": 11500,
+      "selected": false
+  },
+  {
+      "label": "Московская область",
+      "value": 12500,
+      "selected": false
+  }
+]

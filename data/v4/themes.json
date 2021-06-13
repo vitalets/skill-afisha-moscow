@@ -1,0 +1,421 @@
+{
+  "items": [
+    {
+      "id": 213287,
+      "title": "Здоровье и технологии",
+      "created_at": "2021-05-19 12:06:26",
+      "updated_at": "2021-06-11 13:06:10",
+      "icon_id": 19061,
+      "url": "/news/maintheme/213287/"
+    },
+    {
+      "id": 212287,
+      "title": "«Здоровая Москва»",
+      "created_at": "2021-05-19 12:06:04",
+      "updated_at": "2021-06-11 13:04:45",
+      "icon_id": 18061,
+      "url": "/news/maintheme/212287/"
+    },
+    {
+      "id": 210287,
+      "title": "Капремонт",
+      "created_at": "2021-03-12 14:09:52",
+      "updated_at": "2021-06-11 09:02:10",
+      "icon_id": null,
+      "url": "/news/maintheme/210287/"
+    },
+    {
+      "id": 198287,
+      "title": "Театральный архив",
+      "created_at": "2020-10-15 15:20:01",
+      "updated_at": "2021-05-08 10:13:50",
+      "icon_id": null,
+      "url": "/news/maintheme/198287/"
+    },
+    {
+      "id": 197287,
+      "title": "Московские династии",
+      "created_at": "2020-10-15 15:09:17",
+      "updated_at": "2021-04-21 18:29:18",
+      "icon_id": 13061,
+      "url": "/news/maintheme/197287/"
+    },
+    {
+      "id": 167287,
+      "title": "Поддержка старшего поколения",
+      "created_at": "2020-04-06 11:21:49",
+      "updated_at": "2021-04-21 18:27:54",
+      "icon_id": 7061,
+      "url": "/news/maintheme/167287/"
+    },
+    {
+      "id": 159287,
+      "title": "Ваша новая поликлиника",
+      "created_at": "2019-11-19 17:52:32",
+      "updated_at": "2021-06-07 14:48:48",
+      "icon_id": 6061,
+      "url": "/news/maintheme/159287/"
+    },
+    {
+      "id": 158287,
+      "title": "Зима в «Моем районе»",
+      "created_at": "2019-11-18 11:39:05",
+      "updated_at": "2021-03-24 21:36:53",
+      "icon_id": null,
+      "url": "/news/maintheme/158287/"
+    },
+    {
+      "id": 157287,
+      "title": "Строительство и благоустройство",
+      "created_at": "2019-11-06 11:08:33",
+      "updated_at": "2021-06-11 09:02:45",
+      "icon_id": null,
+      "url": "/news/maintheme/157287/"
+    },
+    {
+      "id": 149287,
+      "title": "Осень в «Моем районе»",
+      "created_at": "2019-09-19 21:33:57",
+      "updated_at": "2019-12-02 08:04:27",
+      "icon_id": null,
+      "url": "/news/maintheme/149287/"
+    },
+    {
+      "id": 137287,
+      "title": "Реализация нацпроектов",
+      "created_at": "2019-08-07 12:31:28",
+      "updated_at": "2021-03-03 12:07:30",
+      "icon_id": null,
+      "url": "/news/maintheme/137287/"
+    },
+    {
+      "id": 133287,
+      "title": "Лето в «Моем районе»",
+      "created_at": "2019-07-22 15:32:09",
+      "updated_at": "2019-09-19 21:33:48",
+      "icon_id": null,
+      "url": "/news/maintheme/133287/"
+    },
+    {
+      "id": 132287,
+      "title": "Московские прогулки",
+      "created_at": "2019-07-16 15:48:35",
+      "updated_at": "2021-06-11 20:07:27",
+      "icon_id": 9061,
+      "url": "/news/maintheme/132287/"
+    },
+    {
+      "id": 126287,
+      "title": "Лето в парках",
+      "created_at": "2019-06-17 07:59:52",
+      "updated_at": "2019-09-08 22:34:58",
+      "icon_id": null,
+      "url": "/news/maintheme/126287/"
+    },
+    {
+      "id": 123287,
+      "title": "Юбилей ВДНХ",
+      "created_at": "2019-05-31 19:48:29",
+      "updated_at": "2020-03-25 17:48:13",
+      "icon_id": null,
+      "url": "/news/maintheme/123287/"
+    },
+    {
+      "id": 118287,
+      "title": "Кинопремьеры",
+      "created_at": "2019-04-08 13:08:28",
+      "updated_at": "2020-09-23 20:36:11",
+      "icon_id": null,
+      "url": "/news/maintheme/118287/"
+    },
+    {
+      "id": 117287,
+      "title": "Семейные выходные",
+      "created_at": "2019-04-08 13:04:35",
+      "updated_at": "2021-06-11 16:15:50",
+      "icon_id": 11061,
+      "url": "/news/maintheme/117287/"
+    },
+    {
+      "id": 116287,
+      "title": "Советы библиотекаря",
+      "created_at": "2019-03-18 12:23:01",
+      "updated_at": "2021-06-11 16:15:50",
+      "icon_id": null,
+      "url": "/news/maintheme/116287/"
+    },
+    {
+      "id": 115287,
+      "title": "Интересная Москва",
+      "created_at": "2019-01-15 12:02:21",
+      "updated_at": "2021-06-11 20:07:27",
+      "icon_id": 8061,
+      "url": "/news/maintheme/115287/"
+    },
+    {
+      "id": 114287,
+      "title": "«Путешествие в Рождество»",
+      "created_at": "2018-12-17 12:32:51",
+      "updated_at": "2019-09-08 22:34:58",
+      "icon_id": null,
+      "url": "/news/maintheme/114287/"
+    },
+    {
+      "id": 113287,
+      "title": "Новый год",
+      "created_at": "2018-12-06 09:04:32",
+      "updated_at": "2019-12-31 07:29:45",
+      "icon_id": null,
+      "url": "/news/maintheme/113287/"
+    },
+    {
+      "id": 105287,
+      "title": "Москва глазами студентов",
+      "created_at": "2018-07-20 09:47:33",
+      "updated_at": "2019-05-07 11:44:49",
+      "icon_id": null,
+      "url": "/news/maintheme/105287/"
+    },
+    {
+      "id": 104287,
+      "title": "Урбанфорум",
+      "created_at": "2018-06-15 12:00:24",
+      "updated_at": "2019-05-07 11:44:49",
+      "icon_id": null,
+      "url": "/news/maintheme/104287/"
+    },
+    {
+      "id": 103287,
+      "title": "ВДНХ",
+      "created_at": "2018-06-15 12:00:15",
+      "updated_at": "2021-05-24 10:59:12",
+      "icon_id": null,
+      "url": "/news/maintheme/103287/"
+    },
+    {
+      "id": 102287,
+      "title": "Wi-Fi",
+      "created_at": "2018-06-15 12:00:06",
+      "updated_at": "2019-05-07 11:44:49",
+      "icon_id": null,
+      "url": "/news/maintheme/102287/"
+    },
+    {
+      "id": 101287,
+      "title": "Жизнь театров",
+      "created_at": "2018-06-07 15:31:30",
+      "updated_at": "2021-05-17 13:32:26",
+      "icon_id": 10061,
+      "url": "/news/maintheme/101287/"
+    },
+    {
+      "id": 100287,
+      "title": "Книжный клуб",
+      "created_at": "2018-06-07 15:20:12",
+      "updated_at": "2021-04-21 18:29:08",
+      "icon_id": 12061,
+      "url": "/news/maintheme/100287/"
+    },
+    {
+      "id": 99287,
+      "title": "Музейные истории",
+      "created_at": "2018-06-07 15:19:55",
+      "updated_at": "2021-06-10 17:50:27",
+      "icon_id": 5061,
+      "url": "/news/maintheme/99287/"
+    },
+    {
+      "id": 98287,
+      "title": "ЧМ-2018",
+      "created_at": "2018-05-23 17:55:50",
+      "updated_at": "2019-05-07 11:44:49",
+      "icon_id": null,
+      "url": "/news/maintheme/98287/"
+    },
+    {
+      "id": 86287,
+      "title": "8 Марта",
+      "created_at": "2018-03-06 11:37:09",
+      "updated_at": "2020-03-05 10:10:25",
+      "icon_id": null,
+      "url": "/news/maintheme/86287/"
+    },
+    {
+      "id": 83287,
+      "title": "Снегопад в Москве",
+      "created_at": "2018-02-05 08:32:39",
+      "updated_at": "2019-05-07 11:44:31",
+      "icon_id": null,
+      "url": "/news/maintheme/83287/"
+    },
+    {
+      "id": 82287,
+      "title": "Социальная поддержка",
+      "created_at": "2018-01-11 19:55:10",
+      "updated_at": "2020-07-30 14:31:05",
+      "icon_id": null,
+      "url": "/news/maintheme/82287/"
+    },
+    {
+      "id": 80287,
+      "title": "Что и как работает в праздники 2018",
+      "created_at": "2017-12-28 15:43:17",
+      "updated_at": "2019-05-07 11:44:31",
+      "icon_id": null,
+      "url": "/news/maintheme/80287/"
+    },
+    {
+      "id": 79287,
+      "title": "Авария на «Славянском бульваре»",
+      "created_at": "2017-12-25 16:28:51",
+      "updated_at": "2019-05-07 11:44:31",
+      "icon_id": null,
+      "url": "/news/maintheme/79287/"
+    },
+    {
+      "id": 78287,
+      "title": "Экологическая ситуация",
+      "created_at": "2017-12-09 01:39:20",
+      "updated_at": "2019-05-07 11:44:32",
+      "icon_id": null,
+      "url": "/news/maintheme/78287/"
+    },
+    {
+      "id": 77287,
+      "title": "«Путешествие в Рождество»",
+      "created_at": "2017-12-06 13:54:27",
+      "updated_at": "2019-05-07 11:44:32",
+      "icon_id": null,
+      "url": "/news/maintheme/77287/"
+    },
+    {
+      "id": 76287,
+      "title": "Московская реставрация",
+      "created_at": "2017-12-04 17:21:03",
+      "updated_at": "2019-05-07 11:44:31",
+      "icon_id": null,
+      "url": "/news/maintheme/76287/"
+    },
+    {
+      "id": 74287,
+      "title": "Ликвидация аварии в Гольянове",
+      "created_at": "2017-11-30 00:00:17",
+      "updated_at": "2019-05-07 11:44:30",
+      "icon_id": null,
+      "url": "/news/maintheme/74287/"
+    },
+    {
+      "id": 2287,
+      "title": "Планируйте маршрут",
+      "created_at": "2017-11-03 22:23:24",
+      "updated_at": "2021-06-10 13:35:24",
+      "icon_id": null,
+      "url": "/news/maintheme/2287/"
+    },
+    {
+      "id": 3287,
+      "title": "Решаем вместе",
+      "created_at": "2017-11-03 22:23:24",
+      "updated_at": "2020-07-30 10:27:33",
+      "icon_id": null,
+      "url": "/news/maintheme/3287/"
+    },
+    {
+      "id": 4287,
+      "title": "История Москвы",
+      "created_at": "2017-11-03 22:23:24",
+      "updated_at": "2021-03-22 09:58:49",
+      "icon_id": null,
+      "url": "/news/maintheme/4287/"
+    },
+    {
+      "id": 5287,
+      "title": "Главные стройки столицы",
+      "created_at": "2017-11-03 22:23:24",
+      "updated_at": "2019-05-07 11:44:14",
+      "icon_id": null,
+      "url": "/news/maintheme/5287/"
+    },
+    {
+      "id": 6287,
+      "title": "Работа транспорта",
+      "created_at": "2017-11-03 22:23:24",
+      "updated_at": "2019-05-07 11:44:14",
+      "icon_id": null,
+      "url": "/news/maintheme/6287/"
+    },
+    {
+      "id": 7287,
+      "title": "Московские парки",
+      "created_at": "2017-11-03 22:23:24",
+      "updated_at": "2019-05-07 11:44:14",
+      "icon_id": null,
+      "url": "/news/maintheme/7287/"
+    },
+    {
+      "id": 8287,
+      "title": "Новая медицина",
+      "created_at": "2017-11-03 22:23:24",
+      "updated_at": "2019-05-07 11:44:14",
+      "icon_id": null,
+      "url": "/news/maintheme/8287/"
+    },
+    {
+      "id": 9287,
+      "title": "Новая школа",
+      "created_at": "2017-11-03 22:23:24",
+      "updated_at": "2019-05-07 11:44:14",
+      "icon_id": null,
+      "url": "/news/maintheme/9287/"
+    },
+    {
+      "id": 10287,
+      "title": "Новое на транспорте",
+      "created_at": "2017-11-03 22:23:24",
+      "updated_at": "2019-05-07 11:44:14",
+      "icon_id": null,
+      "url": "/news/maintheme/10287/"
+    },
+    {
+      "id": 11287,
+      "title": "Город для бизнеса",
+      "created_at": "2017-11-03 22:23:24",
+      "updated_at": "2019-05-07 11:44:14",
+      "icon_id": null,
+      "url": "/news/maintheme/11287/"
+    },
+    {
+      "id": 12287,
+      "title": "Московский урбанистический форум 2017",
+      "created_at": "2017-11-03 22:23:24",
+      "updated_at": "2019-05-07 11:44:22",
+      "icon_id": null,
+      "url": "/news/maintheme/12287/"
+    },
+    {
+      "id": 21287,
+      "title": "МЦК",
+      "created_at": "2017-11-03 22:23:24",
+      "updated_at": "2019-05-07 11:44:14",
+      "icon_id": null,
+      "url": "/news/maintheme/21287/"
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "http://www.mos.ru/api/newsfeed/v4/frontend/json/ru/themes?per-page=50&page=1"
+    },
+    "next": {
+      "href": "http://www.mos.ru/api/newsfeed/v4/frontend/json/ru/themes?per-page=50&page=2"
+    },
+    "last": {
+      "href": "http://www.mos.ru/api/newsfeed/v4/frontend/json/ru/themes?per-page=50&page=2"
+    }
+  },
+  "_meta": {
+    "totalCount": 71,
+    "pageCount": 2,
+    "currentPage": 1,
+    "perPage": 50
+  }
+}

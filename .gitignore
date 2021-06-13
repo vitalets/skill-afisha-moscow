@@ -1,0 +1,16 @@
+.DS_Store
+.vscode
+
+# npm
+node_modules
+npm-debug.log
+
+# env
+.env*
+
+/dist
+/todo.txt
+/logs
+/.serverless
+
+/test/events-v4.mjs

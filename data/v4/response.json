@@ -1,0 +1,600 @@
+{
+  "items": [
+    {
+      "id": 98016257,
+      "lang": "ru",
+      "title": "«Прометей прикованный» в культурном центре «Новослободский»",
+      "text": "<p>Молодые актеры театра-студии &laquo;Три ступени&raquo; покажут спектакль &laquo;Прометей прикованный&raquo; по пьесе древнегреческого драматурга Эсхила. Дарья Кабанова, режиссер постановки, предлагает зрителям взглянуть на поступки Прометея с непривычной точки зрения.</p>",
+      "date_from": "2021-06-29 14:00:00",
+      "date_to": "2021-06-29 21:30:00",
+      "date_from_timestamp": 1624964400,
+      "date_to_timestamp": 1624991400,
+      "date": "2021-06-29 14:00:00",
+      "date_timestamp": 1623417263,
+      "created_at": "2021-06-11 16:14:23",
+      "created_at_timestamp": 1623417263,
+      "updated_at": "2021-06-11 23:02:16",
+      "updated_at_timestamp": 1623441736,
+      "published_at": "2021-06-11 17:04:00",
+      "status": "public",
+      "search": 1,
+      "ya_rss": 0,
+      "free": 0,
+      "is_powered": 0,
+      "label": null,
+      "oiv_id": 12585090,
+      "restriction": {
+        "age": 12
+      },
+      "has_image": 1,
+      "active_from": null,
+      "active_to": null,
+      "active_from_timestamp": null,
+      "active_to_timestamp": null,
+      "icon_id": null,
+      "kind": {
+        "id": "afisha",
+        "title": "События афиши",
+        "type": 48
+      },
+      "is_oiv_publication": 0,
+      "ebs_id": 7126,
+      "ebs_type": "event",
+      "ebs_title": "Прометей прикованный ",
+      "ebs_agent_uid": "museum201",
+      "image": {
+        "id": 3172801281,
+        "title": null,
+        "copyright": null,
+        "original": {
+          "id": 3172801281,
+          "title": null,
+          "src": "/upload/newsfeed/events/imagesWRpb1x(3).jpg",
+          "width": 1766,
+          "height": 968,
+          "type": "original"
+        },
+        "small": {
+          "id": 3172998281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(4).jpg",
+          "width": 480,
+          "height": 263,
+          "type": "small"
+        },
+        "middle": {
+          "id": 3172999281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(6).jpg",
+          "width": 800,
+          "height": 439,
+          "type": "middle"
+        },
+        "big": {
+          "id": 3173000281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(1).jpg",
+          "width": 1600,
+          "height": 877,
+          "type": "big"
+        },
+        "download": {
+          "id": 3173001281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(10).jpg",
+          "width": 1766,
+          "height": 968,
+          "type": "download"
+        },
+        "thumb": {
+          "id": 3173002281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(9).jpg",
+          "width": 400,
+          "height": 219,
+          "type": "thumb"
+        },
+        "show": {
+          "id": 3173003281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(12).jpg",
+          "width": 1200,
+          "height": 658,
+          "type": "show"
+        },
+        "1x1_m": {
+          "id": 3173004281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(7).jpg",
+          "width": 800,
+          "height": 800,
+          "type": "1x1_m"
+        },
+        "1x1_s": {
+          "id": 3173005281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(16).jpg",
+          "width": 480,
+          "height": 480,
+          "type": "1x1_s"
+        },
+        "2x1_b": {
+          "id": 3173006281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(3).jpg",
+          "width": 1600,
+          "height": 800,
+          "type": "2x1_b"
+        },
+        "2x1_m": {
+          "id": 3173007281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(2).jpg",
+          "width": 800,
+          "height": 400,
+          "type": "2x1_m"
+        },
+        "2x1_s": {
+          "id": 3173008281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(15).jpg",
+          "width": 480,
+          "height": 240,
+          "type": "2x1_s"
+        },
+        "3x1_b": {
+          "id": 3173009281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(8).jpg",
+          "width": 1599,
+          "height": 533,
+          "type": "3x1_b"
+        },
+        "3x1_m": {
+          "id": 3173010281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(14).jpg",
+          "width": 798,
+          "height": 266,
+          "type": "3x1_m"
+        },
+        "3x1_s": {
+          "id": 3173011281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(13).jpg",
+          "width": 480,
+          "height": 160,
+          "type": "3x1_s"
+        },
+        "4x1_b": {
+          "id": 3173012281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(11).jpg",
+          "width": 1600,
+          "height": 400,
+          "type": "4x1_b"
+        },
+        "4x1_m": {
+          "id": 3173013281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(5).jpg",
+          "width": 800,
+          "height": 200,
+          "type": "4x1_m"
+        },
+        "4x1_s": {
+          "id": 3173014281,
+          "title": null,
+          "src": "/upload/newsfeed/afisha/imagesWRpb1x(3).jpg",
+          "width": 480,
+          "height": 120,
+          "type": "4x1_s"
+        }
+      },
+      "organizations": [
+        12585090
+      ],
+      "icon": null,
+      "tags": [
+        {
+          "id": 396217,
+          "title": "спектакли",
+          "created_at": "2015-12-28 00:16:28"
+        },
+        {
+          "id": 4386217,
+          "title": "культурные центры",
+          "created_at": "2016-02-12 10:27:07"
+        },
+        {
+          "id": 13527217,
+          "title": "Новослободский",
+          "created_at": "2016-12-13 11:19:48"
+        },
+        {
+          "id": 47376217,
+          "title": "молодые актеры",
+          "created_at": "2020-03-06 16:52:06"
+        }
+      ],
+      "spheres": [
+        {
+          "id": 80299,
+          "title": "Спектакли",
+          "special": 0,
+          "activated": 1,
+          "priority": 0
+        }
+      ],
+      "themes": [],
+      "auditories": [
+        {
+          "id": 5087,
+          "title": "Участие в мероприятии только как зритель"
+        }
+      ],
+      "districts": [
+        {
+          "id": 5500,
+          "area_ids": [
+            63501
+          ]
+        }
+      ],
+      "spots": [
+        {
+          "id": 213210,
+          "title": "Улица Сущевский Вал, дом 10а, строение 2",
+          "address": "Улица Сущевский Вал, дом 10а, строение 2",
+          "lon": "37.594144",
+          "lat": "55.79013",
+          "created_at": "2021-04-23 15:13:17",
+          "updated_at": "2021-05-20 19:26:30",
+          "place_type_id": 33085,
+          "foundation_id": 40211,
+          "ebs_id": 273949,
+          "ebs_title": "Сущёвский Вал ул., 10А, строение 2",
+          "created_at_timestamp": 1619179997,
+          "updated_at_timestamp": 1621527990,
+          "place_type": {
+            "id": 33085,
+            "title": "Культурные центры",
+            "sort": 34000
+          }
+        }
+      ],
+      "url": "/afisha/event/98016257/",
+      "images": [
+        {
+          "id": 3172801281,
+          "title": null,
+          "copyright": null,
+          "original": {
+            "id": 3172801281,
+            "title": null,
+            "src": "/upload/newsfeed/events/imagesWRpb1x(3).jpg",
+            "width": 1766,
+            "height": 968,
+            "type": "original"
+          },
+          "small": {
+            "id": 3172998281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(4).jpg",
+            "width": 480,
+            "height": 263,
+            "type": "small"
+          },
+          "middle": {
+            "id": 3172999281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(6).jpg",
+            "width": 800,
+            "height": 439,
+            "type": "middle"
+          },
+          "big": {
+            "id": 3173000281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(1).jpg",
+            "width": 1600,
+            "height": 877,
+            "type": "big"
+          },
+          "download": {
+            "id": 3173001281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(10).jpg",
+            "width": 1766,
+            "height": 968,
+            "type": "download"
+          },
+          "thumb": {
+            "id": 3173002281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(9).jpg",
+            "width": 400,
+            "height": 219,
+            "type": "thumb"
+          },
+          "show": {
+            "id": 3173003281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(12).jpg",
+            "width": 1200,
+            "height": 658,
+            "type": "show"
+          },
+          "1x1_m": {
+            "id": 3173004281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(7).jpg",
+            "width": 800,
+            "height": 800,
+            "type": "1x1_m"
+          },
+          "1x1_s": {
+            "id": 3173005281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(16).jpg",
+            "width": 480,
+            "height": 480,
+            "type": "1x1_s"
+          },
+          "2x1_b": {
+            "id": 3173006281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(3).jpg",
+            "width": 1600,
+            "height": 800,
+            "type": "2x1_b"
+          },
+          "2x1_m": {
+            "id": 3173007281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(2).jpg",
+            "width": 800,
+            "height": 400,
+            "type": "2x1_m"
+          },
+          "2x1_s": {
+            "id": 3173008281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(15).jpg",
+            "width": 480,
+            "height": 240,
+            "type": "2x1_s"
+          },
+          "3x1_b": {
+            "id": 3173009281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(8).jpg",
+            "width": 1599,
+            "height": 533,
+            "type": "3x1_b"
+          },
+          "3x1_m": {
+            "id": 3173010281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(14).jpg",
+            "width": 798,
+            "height": 266,
+            "type": "3x1_m"
+          },
+          "3x1_s": {
+            "id": 3173011281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(13).jpg",
+            "width": 480,
+            "height": 160,
+            "type": "3x1_s"
+          },
+          "4x1_b": {
+            "id": 3173012281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(11).jpg",
+            "width": 1600,
+            "height": 400,
+            "type": "4x1_b"
+          },
+          "4x1_m": {
+            "id": 3173013281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3)(5).jpg",
+            "width": 800,
+            "height": 200,
+            "type": "4x1_m"
+          },
+          "4x1_s": {
+            "id": 3173014281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesWRpb1x(3).jpg",
+            "width": 480,
+            "height": 120,
+            "type": "4x1_s"
+          }
+        }
+      ],
+      "attach": [],
+      "foundation": {
+        "id": 40211,
+        "lang": "ru",
+        "ebs_id": 201,
+        "ebs_title": "Государственное бюджетное учреждение культуры города Москвы «Культурный центр «Новослободский»",
+        "title": "Культурный центр «Новослободский»",
+        "description": "Культурный центр «Новослободский» — это место для творчества и саморазвития. В центре работают творческие студии для детей и взрослых, проводятся мастер-классы и открытые уроки, фестивали и концерты, лекции и творческие вечера. Коллектив «Буин Хан» и Музыкальный театр Ирины Комаровской — особая гордость центра.",
+        "address": "Улица Сущевский Вал, дом 10а, строение 2",
+        "place_type_id": 33085,
+        "phone": "+7 (499) 978-38-63",
+        "image": {
+          "id": 3057388281,
+          "title": null,
+          "copyright": null,
+          "original": {
+            "id": 3057388281,
+            "title": null,
+            "src": "/upload/newsfeed/foundations/imagesPiZcDv(8).jpg",
+            "width": 5184,
+            "height": 3456,
+            "type": "original"
+          },
+          "small": {
+            "id": 3068046281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(3).jpg",
+            "width": 480,
+            "height": 320,
+            "type": "small"
+          },
+          "middle": {
+            "id": 3068047281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(9).jpg",
+            "width": 800,
+            "height": 533,
+            "type": "middle"
+          },
+          "big": {
+            "id": 3068048281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(15).jpg",
+            "width": 1600,
+            "height": 1067,
+            "type": "big"
+          },
+          "download": {
+            "id": 3068049281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(16).jpg",
+            "width": 5184,
+            "height": 3456,
+            "type": "download"
+          },
+          "thumb": {
+            "id": 3068050281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(1).jpg",
+            "width": 400,
+            "height": 267,
+            "type": "thumb"
+          },
+          "show": {
+            "id": 3068051281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(13).jpg",
+            "width": 1200,
+            "height": 800,
+            "type": "show"
+          },
+          "1x1_m": {
+            "id": 3068052281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(11).jpg",
+            "width": 800,
+            "height": 800,
+            "type": "1x1_m"
+          },
+          "1x1_s": {
+            "id": 3068053281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(6).jpg",
+            "width": 480,
+            "height": 480,
+            "type": "1x1_s"
+          },
+          "2x1_b": {
+            "id": 3068054281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(14).jpg",
+            "width": 1600,
+            "height": 800,
+            "type": "2x1_b"
+          },
+          "2x1_m": {
+            "id": 3068055281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(8).jpg",
+            "width": 800,
+            "height": 400,
+            "type": "2x1_m"
+          },
+          "2x1_s": {
+            "id": 3068056281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(2).jpg",
+            "width": 480,
+            "height": 240,
+            "type": "2x1_s"
+          },
+          "3x1_b": {
+            "id": 3068057281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(12).jpg",
+            "width": 1599,
+            "height": 533,
+            "type": "3x1_b"
+          },
+          "3x1_m": {
+            "id": 3068058281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(5).jpg",
+            "width": 798,
+            "height": 266,
+            "type": "3x1_m"
+          },
+          "3x1_s": {
+            "id": 3068059281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(7).jpg",
+            "width": 480,
+            "height": 160,
+            "type": "3x1_s"
+          },
+          "4x1_b": {
+            "id": 3068060281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(10).jpg",
+            "width": 1600,
+            "height": 400,
+            "type": "4x1_b"
+          },
+          "4x1_m": {
+            "id": 3068061281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8)(4).jpg",
+            "width": 800,
+            "height": 200,
+            "type": "4x1_m"
+          },
+          "4x1_s": {
+            "id": 3068062281,
+            "title": null,
+            "src": "/upload/newsfeed/afisha/imagesPiZcDv(8).jpg",
+            "width": 480,
+            "height": 120,
+            "type": "4x1_s"
+          }
+        },
+        "created_at": "2021-04-23 15:13:16",
+        "updated_at": "2021-06-11 23:10:05"
+      }
+    }
+  ],
+  "_links": {
+    "self": {
+      "href": "http://www.mos.ru/api/newsfeed/v4/frontend/json/ru/afisha?per-page=1&expand=icon%2Ctags%2Cspheres%2Cthemes%2Cauditories%2Curl%2Cspots%2Cdistricts%2Cimages%2Cattach%2Cspots.place_type%2Cfoundation&page=1"
+    },
+    "next": {
+      "href": "http://www.mos.ru/api/newsfeed/v4/frontend/json/ru/afisha?per-page=1&expand=icon%2Ctags%2Cspheres%2Cthemes%2Cauditories%2Curl%2Cspots%2Cdistricts%2Cimages%2Cattach%2Cspots.place_type%2Cfoundation&page=2"
+    },
+    "last": {
+      "href": "http://www.mos.ru/api/newsfeed/v4/frontend/json/ru/afisha?per-page=1&expand=icon%2Ctags%2Cspheres%2Cthemes%2Cauditories%2Curl%2Cspots%2Cdistricts%2Cimages%2Cattach%2Cspots.place_type%2Cfoundation&page=1099"
+    }
+  },
+  "_meta": {
+    "totalCount": 1099,
+    "pageCount": 1099,
+    "currentPage": 1,
+    "perPage": 1
+  }
+}
